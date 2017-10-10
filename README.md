@@ -246,6 +246,7 @@ redis3m (a C++ Redis client) installation:
    ./Test_latency 9 32000    32000   10 0 8
    
    (Ext)
+
    ./Test_insert  9 -2000    0 2 0 8 0
    ./Test_insert  9 -4000    0 2 0 8 0
    ./Test_insert  9 -8000    0 2 0 8 0
@@ -315,3 +316,4 @@ redis3m (a C++ Redis client) installation:
   - Xingliang Yuan, City University of Hong Kong, xyuancs@gmail.com
   - Mengyu Yao, City University of Hong Kong, mengycs@gmail.com
   - Yu Guo, City University of Hong Kong, y.guo@my.cityu.edu.hk
+  - Cong Wang, City University of Hong Kong, congwang@cityu.edu.hk
